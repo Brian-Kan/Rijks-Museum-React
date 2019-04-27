@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Rijks-Museum-React/static/css/main.8fe96998.chunk.css",
-    "main.js": "/Rijks-Museum-React/static/js/main.b07da99c.chunk.js",
-    "main.js.map": "/Rijks-Museum-React/static/js/main.b07da99c.chunk.js.map",
-    "runtime~main.js": "/Rijks-Museum-React/static/js/runtime~main.c591e938.js",
-    "runtime~main.js.map": "/Rijks-Museum-React/static/js/runtime~main.c591e938.js.map",
-    "static/js/2.50f5a3e5.chunk.js": "/Rijks-Museum-React/static/js/2.50f5a3e5.chunk.js",
-    "static/js/2.50f5a3e5.chunk.js.map": "/Rijks-Museum-React/static/js/2.50f5a3e5.chunk.js.map",
-    "index.html": "/Rijks-Museum-React/index.html",
-    "precache-manifest.0da125b4789b4f069fd17d5333884ff4.js": "/Rijks-Museum-React/precache-manifest.0da125b4789b4f069fd17d5333884ff4.js",
-    "service-worker.js": "/Rijks-Museum-React/service-worker.js",
-    "static/css/main.8fe96998.chunk.css.map": "/Rijks-Museum-React/static/css/main.8fe96998.chunk.css.map"
+    "main.css": "/rijks-museum-react/static/css/main.8fe96998.chunk.css",
+    "main.js": "/rijks-museum-react/static/js/main.d890f0c8.chunk.js",
+    "main.js.map": "/rijks-museum-react/static/js/main.d890f0c8.chunk.js.map",
+    "runtime~main.js": "/rijks-museum-react/static/js/runtime~main.fc2b2816.js",
+    "runtime~main.js.map": "/rijks-museum-react/static/js/runtime~main.fc2b2816.js.map",
+    "static/js/2.50f5a3e5.chunk.js": "/rijks-museum-react/static/js/2.50f5a3e5.chunk.js",
+    "static/js/2.50f5a3e5.chunk.js.map": "/rijks-museum-react/static/js/2.50f5a3e5.chunk.js.map",
+    "index.html": "/rijks-museum-react/index.html",
+    "precache-manifest.2e70acb7b60f71dd4fdbff186ac0566d.js": "/rijks-museum-react/precache-manifest.2e70acb7b60f71dd4fdbff186ac0566d.js",
+    "service-worker.js": "/rijks-museum-react/service-worker.js",
+    "static/css/main.8fe96998.chunk.css.map": "/rijks-museum-react/static/css/main.8fe96998.chunk.css.map"
   }
 }
